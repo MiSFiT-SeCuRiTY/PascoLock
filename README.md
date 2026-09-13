@@ -54,7 +54,7 @@ sudo pkg -i python3
 ```
 
 ```
-git clone https://github.com/an0s-voldigoad/PascoLock.git
+git clone https://github.com/MiSFiT-SeCuRiTY/PascoLock.git
 ```
 
 ```
@@ -75,7 +75,7 @@ chmod +x pascolock.py
 OR YOU CAN PASTE THIS ONE LINE SCRIPT AS WELL 
 
 ```
-sudo apt update && sudo apt upgrade -y && sudo apt install python3 git python3-pip python3-colorama -y && git clone https://github.com/an0s-voldigoad/PascoLock.git && cd PascoLock && chmod +x pascolock.py && ./pascolock.py
+sudo apt update && sudo apt upgrade -y && sudo apt install python3 git python3-pip python3-colorama -y && git clone https://github.com/MiSFiT-SeCuRiTY/PascoLock.git && cd PascoLock && chmod +x pascolock.py && ./pascolock.py
 ```
 
 ## 🎥 Video Tutorial
